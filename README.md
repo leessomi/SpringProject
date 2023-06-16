@@ -29,7 +29,7 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 📷 View
 <details>
   <summary>Image</summary>
-  
+  https://github.com/leessomi/SpringProject/issues/1#issue-1760346533
 </details>
 
 #### ✔️ 게시판
