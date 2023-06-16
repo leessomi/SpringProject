@@ -32,6 +32,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
   https://github.com/leessomi/SpringProject/issues/1#issue-1760346533
 </details>
 
+***
+
 #### ✔️ 게시판
 - 글 등록, 조회, 수정, 삭제(CRUD)
 - 페이징
@@ -42,8 +44,10 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 📷 View
 <details>
   <summary>Image</summary>
-  
+  <img width="652" alt="화면 캡처 2023-06-16 193226" src="https://github.com/leessomi/SpringProject/assets/136604400/fd1826c1-20c0-4dd9-bea7-4da9f537f743">
 </details>
+
+***
 
 #### ✔️ 댓글
 - Ajax 이용한 REST API 방식
@@ -58,6 +62,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
   
 </details>
 
+***
+
 #### ✔️ 로그인
 - 로그인 후 메인페이지로 이동
 - 로그인 유지 
@@ -68,6 +74,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
   <summary>Image</summary>
   
 </details>
+
+***
 
 #### ✔️ 회원가입
 - 비밀번호 암호화(인코딩) - security
@@ -80,6 +88,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
   <summary>Image</summary>
   
 </details>
+
+***
 
 #### ✔️ 마이 페이지
 - 비밀번호 암호화(인코딩) - security
