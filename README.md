@@ -29,7 +29,7 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 📷 View
 <details>
   <summary>Image</summary>
-  https://github.com/leessomi/SpringProject/issues/1#issue-1760346533
+  <img width="948" alt="화면 캡처 2023-06-17 152409" src="https://github.com/leessomi/SpringProject/assets/136604400/f1fc7f77-c2fa-4321-8dfc-e90810257acf">
 </details>
 
 ***
