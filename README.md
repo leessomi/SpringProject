@@ -63,7 +63,7 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 📷 View
 <details>
   <summary>Image</summary>
-  <img width="491" alt="화면 캡처 2023-06-17 135514" src="https://github.com/leessomi/SpringProject/assets/136604400/0394dff5-4ceb-463a-b346-1084b5959fbb"><br/>
+  <img width="491" alt="화면 캡처 2023-06-17 135514" src="https://github.com/leessomi/SpringProject/assets/136604400/0394dff5-4ceb-463a-b346-1084b5959fbb"><br>
   <img width="190" height="115" alt="화면 캡처 2023-06-17 135737" src="https://github.com/leessomi/SpringProject/assets/136604400/dc3830e1-07b6-4f50-9f76-e6476814fe41">
 <img width="190" height="115" alt="화면 캡처 2023-06-17 135816" src="https://github.com/leessomi/SpringProject/assets/136604400/76e0a12f-4847-470b-b9f6-d6b364815970">
 </details>
@@ -78,7 +78,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 
 <details>
   <summary>Image</summary>
-  
+  <img width="229" alt="화면 캡처 2023-06-17 142010" src="https://github.com/leessomi/SpringProject/assets/136604400/3429a488-d21b-4375-9b8b-ca2cbb168492">
+  <img width="237" alt="화면 캡처 2023-06-17 141950" src="https://github.com/leessomi/SpringProject/assets/136604400/2590a851-c7c7-4cee-be0e-cbf3154cf07f">
 </details>
 
 ***
@@ -92,7 +93,8 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 
 <details>
   <summary>Image</summary>
-  
+  <img width="234" alt="화면 캡처 2023-06-17 142230" src="https://github.com/leessomi/SpringProject/assets/136604400/2211001e-ba1c-422f-98f5-763ad56d4d05">
+  <img width="377" alt="화면 캡처 2023-06-17 142315" src="https://github.com/leessomi/SpringProject/assets/136604400/57e6f5ac-ffc9-4a33-a0fd-7c87d033dec8">
 </details>
 
 ***
