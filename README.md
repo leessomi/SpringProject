@@ -103,5 +103,6 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 
 <details>
   <summary>Image</summary>
-  
+  <img width="176" alt="화면 캡처 2023-06-17 140532" src="https://github.com/leessomi/SpringProject/assets/136604400/c2033334-7934-4c33-ac74-d545c25b3550">
+  <img width="176" alt="화면 캡처 2023-06-17 140532" src="https://github.com/leessomi/SpringProject/assets/136604400/c2033334-7934-4c33-ac74-d545c25b3550">
 </details>
