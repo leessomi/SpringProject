@@ -18,7 +18,7 @@ CRUD게시판을 만들고 필요기능들을 추가해 나가는 방식으로 �
 - **Framework** : Spring
 - **Database** : Oracle DB(11g)
 - **ORM** : Mybatis
-- **Server** : Apache 9.0.55
+- **Server** : Tomcat
 
 ## 📌 주요 기능
 #### ✔️ 메인 페이지
